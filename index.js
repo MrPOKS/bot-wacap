@@ -16,8 +16,8 @@ const BotName = 'BOT ./MrPOKS'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/poukes_?igshid=gy99k1dypoqt'; // Nama Instagramlu cok
 const whatsapplu = '0852-5962-2026'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
+const grupch1 = 'MALES BIKIN'; // OFFICIAL GRUP LU 1
+const grupch2 = 'MALES BIKIN'; // OFFICIAL GRUP LU 2
 //
 const
 {
